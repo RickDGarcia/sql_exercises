@@ -1,0 +1,1 @@
+SELECT AVG(DATEDIFF(CURDATE(), birth_date)/365) FROM employees
